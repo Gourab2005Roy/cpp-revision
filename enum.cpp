@@ -1,9 +1,11 @@
 // Here we gonna learn about the concept 'ENUM'.
 // Enum is generally used for making the initialization of any variable easier.
-// There are times, where we declare a variable and work with that variable, but have no idea what's the function of that variable after going through the code after couple of days. There comes the main use of Enum.
-// It generally helps us to keep a track of the variables..
+// Instead of declaring each and every variable, we declare the variables all together at once, inside 'Enum', as a result, it becomes easier to access.
 
-// BTW, Enum is a class type..
+// BTW, Enum has two version: Normal and Class type..
+// Enum normal is okay okay, and does get the work done..
+// But Enum-class gets the work completely done, where Enum normal fails..
+
 // Elements present in Enum work as zero-th index format...
 // We can change the indexing by just initializing a value to the element, and the rest of the element follow that initialized indexing.
 
