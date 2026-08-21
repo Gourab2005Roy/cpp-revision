@@ -1,5 +1,12 @@
 // Printing a simple pattern in multi-dimensional.
 
+/*
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+*/
+
 #include<iostream>
 
 int main()
