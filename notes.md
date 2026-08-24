@@ -1,3 +1,5 @@
 "# Day 1: revised pointers" 
 "# Day 2: Enum, Typedef, Using, Conditional Statement, Operators, Short circuiting, Maximum of 2 nos."
 "# Day 3: Patterns, for-loop, linear search, binary search, summation of array's element, finding max and min element in array."
+"# Day 4: Again revised each and everything regarding pointers and also learnt pointer arithmetic, problems using pointer, reference."
+"# Day 5: Character array, reading and writing, using functions, converting into integer (std::strtoi), float (strtof), and long long int (strtol). String, reading and writing."
