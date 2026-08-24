@@ -1,4 +1,4 @@
-// Here, we will see the working of functions over 'STRING'.
+// Here, we will see the working of functions over 'STRING' itself.
 
 #include<iostream>
 #include<string>

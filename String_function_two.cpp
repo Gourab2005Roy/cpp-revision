@@ -1,4 +1,4 @@
-// Here, we gonna see the other functions action on STRING.
+// Here, we gonna see the other functions action on that STRING.
 
 #include<iostream>
 #include<string>
