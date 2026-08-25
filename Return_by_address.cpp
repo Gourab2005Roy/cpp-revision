@@ -3,7 +3,7 @@
 
 #include<iostream>
 
-int *fun(int size)
+int *fun(int size) // Reason for choosing 'pointer function' over 'normal function', cause, 'normal function' would return only a single value, but 'pointer function' would return the whole array. And moreover, we are dealing with heap.
 {
     int *p = new int[size]; // Pointer 'p' dies itself, as the function ends.
     for(std::size_t i = 0; i<size; i++)
