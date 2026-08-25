@@ -1,6 +1,6 @@
 // Pass by value. OR Call by value.
 
-// Means passing value to the function.
+// Means passing value to the function's parameters.
 // The value that's being passed to the function has no influence on the main value.
 
 
