@@ -55,5 +55,8 @@ int main()
     std::cout<<second;
     std::cout<<third;
 
+    // Another way of printing.
+    operator<<(std::cout, first);
+
     return 0;
 }
