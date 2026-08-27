@@ -4,3 +4,4 @@
 "# Day 4: Again revised each and everything regarding pointers and also learnt pointer arithmetic, problems using pointer, reference."
 "# Day 5: Character array, reading and writing, using functions, converting into integer (std::strtoi), float (strtof), and long long int (strtol). String, reading and writing."
 "# Day 6: String class, reading and writing of class string, functions of class string, other important functions on class string, string class copy and find function, operators defined upon string class."
+"# Day 7: Pointer function, Abstraction, Encapsulation, Inheritance, Polymorphism, class, object, writing a class, pointer to object, creating an object in heap using pointer, data hiding, constructors - parameterized, non-parameterized, default, and copy."
