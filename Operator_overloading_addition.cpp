@@ -80,8 +80,12 @@ Output:
 
 Everything got deleted by the destructor.   <- parameter 'c' (copy of c2) destroyed, end of add()
 Everything got deleted by the destructor.   <- 'temp' destroyed, end of add()
+Everything got deleted by the destructor.   <- parameter 'c' (copy of c2) destroyed, end of operator+()
+Everything got deleted by the destructor.   <- 'temp' destroyed, end of operator+()
 20 20                                        <- cout line runs
-Everything got deleted by the destructor.   <- c3 destroyed, end of main (LIFO: last declared...)
+20 20                                        <- cout line runs
+Everything got deleted by the destructor.   <- c4 destroyed, end of main (LIFO: last declared...)
+Everything got deleted by the destructor.   <- c3 destroyed
 Everything got deleted by the destructor.   <- c2 destroyed
 Everything got deleted by the destructor.   <- c1 destroyed (first declared, destroyed last)
 */
