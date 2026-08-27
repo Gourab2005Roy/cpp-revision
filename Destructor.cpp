@@ -18,8 +18,8 @@
 
 /*
 Take-away points:
-1. Test t, t1, t2, t3;
-    Objects are destroyed in the reverse order of their creation. In this case, t3 is the first to be destroyed, while t is the last.
+1. Rectangle r, r1;
+    Objects are destroyed in the reverse order of their creation. In this case, 'r1' is the first to be destroyed, while 'r' is the last.
 2. Destructor has the same name as their class name preceded by a tilde (~) symbol.
 3. It is not possible to define more than one destructor.
 4. The destructor is only one way to destroy the object created by the constructor. Hence, destructor cannot be overloaded.
