@@ -30,5 +30,8 @@ int main()
     std::cout<<p->area()<<"\n";
     std::cout<<p->perimeter()<<"\n";
 
+    std::cout<<r.area()<<"\n";
+    std::cout<<r.perimeter()<<"\n";
+
     return 0;
 }
