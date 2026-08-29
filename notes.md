@@ -6,3 +6,5 @@
 "# Day 6: String class, reading and writing of class string, functions of class string, other important functions on class string, string class copy and find function, operators defined upon string class."
 "# Day 7: Pointer function, Abstraction, Encapsulation, Inheritance, Polymorphism, class, object, writing a class, pointer to object, creating an object in heap using pointer, data hiding, constructors - parameterized, non-parameterized, default, and copy."
 "# Day 8: Scope resolution operator, Inline function, Operator-overloading, Friend operator overloading, Overloading output stream operator, Overloading input stream operator."
+"# Day 9: Nothing."
+"# Day 10: Inheritance, Inheritance example, Constructor in Inheritance, isA and hasA, Access Specifiers, Types of Inheritance, Ways of Inheritance: public - protected - and private, Generalization and Specialization, Base class pointer derived class object."
