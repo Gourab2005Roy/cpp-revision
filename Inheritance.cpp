@@ -13,6 +13,10 @@
 // Now, it depends upon the programmer, that on/in what form he wants to store the inherited thing.
 
 
+
+// "If a derived class inherits privately from a base class, outside code (like main()) can no longer access the base class's members through the derived class — even the ones that were public in the base class. But the derived class can still access them internally, and can re-expose that access through its own public methods if it wants to."
+
+
 #include<iostream>
 #include<string>
 
@@ -54,6 +58,6 @@ int main()
 {
     Dog d(5, "Buddy");
     d.display();
-    
+
     return 0;
 }
