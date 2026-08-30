@@ -18,6 +18,9 @@
 
 // If a derived class inherits from an abstract class but does NOT override every pure virtual function, that derived class remains abstract as well — and it too cannot be instantiated, until every pure virtual function is overridden.
 
+// It is mandatory to add 'override' beside the function, that we are accessing from the virtual.
+
+
 
 #include<iostream>
 
@@ -32,15 +35,15 @@ class Car
 class Defender : public Car
 {
     public:
-    void start()
+    void start() override
     {
         std::cout<<"Defender car started.\n";
     }
-    void stop()
+    void stop() override
     {
         std::cout<<"Defender car stopped.\n";
     }
-    ~Defender()
+    ~Defender() override
     {
         std::cout<<"Defender car destroyed.\n";
     }
@@ -49,15 +52,15 @@ class Defender : public Car
 class Mercedes : public Car
 {
     public:
-    void start()
+    void start() override
     {
         std::cout<<"Mercedes car started.\n";
     }
-    void stop()
+    void stop() override
     {
         std::cout<<"Mercedes car stopped.\n";
     }
-    ~Mercedes()
+    ~Mercedes() override
     {
         std::cout<<"Mercedes car destroyed.\n";
     }
