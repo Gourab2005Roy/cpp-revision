@@ -8,3 +8,4 @@
 "# Day 8: Scope resolution operator, Inline function, Operator-overloading, Friend operator overloading, Overloading output stream operator, Overloading input stream operator."
 "# Day 9: Nothing."
 "# Day 10: Inheritance, Inheritance example, Constructor in Inheritance, isA and hasA, Access Specifiers, Types of Inheritance, Ways of Inheritance: public - protected - and private, Generalization and Specialization, Base class pointer derived class object."
+"# Day 11: Function overriding, Virtual function - calling over-rided method, polymorphism, abstract class, pure virtual function, Friend function, Friend class, Static Members."
