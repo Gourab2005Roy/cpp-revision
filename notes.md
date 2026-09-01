@@ -9,3 +9,4 @@
 "# Day 9: Nothing."
 "# Day 10: Inheritance, Inheritance example, Constructor in Inheritance, isA and hasA, Access Specifiers, Types of Inheritance, Ways of Inheritance: public - protected - and private, Generalization and Specialization, Base class pointer derived class object."
 "# Day 11: Function overriding, Virtual function - calling over-rided method, polymorphism, abstract class, pure virtual function, Friend function, Friend class, Static Members."
+"# Day 12: Exception Handling, All about throw, All about catch, Template class, some examples of template class, Constant, Constant pointer, Constant function, Constant member function."
